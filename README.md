@@ -4,8 +4,8 @@ A list of german dancesport tournaments I would like to attend
 ## Overview
 
 - [Bonner Sommerpokal](./bonner-sommerpokal.md)
-- OWL tanzt
-- Bavarian Dance Days
-- TBW Trophy
-- Herbstpokal Berlin
-- Thüringer Tanzsporttage
+- [OWL tanzt](./owl-tanzt.md)
+- [Bavarian Dance Days](./bavaria-dance-days.md)
+- [TBW Trophy](./tbw-trophy.md)
+- [Herbstpokal Berlin](./herbstpokal-berlind.md)
+- [Thüringer Tanzsporttage](./thueringer-tanzsporttage.md)
