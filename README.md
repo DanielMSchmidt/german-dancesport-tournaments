@@ -3,7 +3,7 @@ A list of german dancesport tournaments I would like to attend
 
 ## Overview
 
-- Bonner Sommerpokal
+- [Bonner Sommerpokal](./bonner-sommerpokal.md)
 - OWL tanzt
 - Bavarian Dance Days
 - TBW Trophy
