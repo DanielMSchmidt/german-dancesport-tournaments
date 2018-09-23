@@ -2,20 +2,21 @@
 
 ## Termin
 
-6.-7.4.2019
+4. - 5.5.2019
 
 ## Veranstaltungsort
 
-TBD
+[Bürgerzentrum Südstadt, Karlsruhe](https://goo.gl/maps/3rRFJzyqQ4m)
 
 ## Hotels
 
-TBD
+- [ACHAT Plaza Karlsruhe](http://www.booking.com/Share-1e4k5G) (167€, 8 min)
+- [Hotel Barbarossa](http://www.booking.com/Share-IXut9W) (240€, 8min)
 
 ## ToDos
 
-- [ ] Veranstaltungsort suchen
-- [ ] Hotels suchen
+- [X] Veranstaltungsort suchen
+- [X] Hotels suchen
 - [ ] Hotel buchen
 - [ ] Fahrt planen
 - [ ] anmelden
