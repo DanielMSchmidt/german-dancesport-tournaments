@@ -5,7 +5,7 @@ A list of german dancesport tournaments I would like to attend
 
 - [Bonner Sommerpokal](./bonner-sommerpokal.md)
 - [Blaues Band](./blaues-band.md)
-- [Hessen tanzt](.hessen-tanzt.md)
+- [Hessen tanzt](./hessen-tanzt.md)
 - [OWL tanzt](./owl-tanzt.md)
 - [Bavarian Dance Days](./bavaria-dance-days.md)
 - [TBW Trophy](./tbw-trophy.md)
