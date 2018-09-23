@@ -6,16 +6,17 @@
 
 ## Veranstaltungsort
 
-TBD
+[Gretel-Bergmann-Sporthalle](https://goo.gl/maps/wDEcR33z3cG2)
 
 ## Hotels
 
-TBD
+- [enjoy hostel Berlin City Messe](http://www.booking.com/Share-lZM1d0) (100€, 3 min)
+- [enjoy hostel Berlin City West](http://www.booking.com/Share-GnWBnk) (100€, 3 min)
 
 ## ToDos
 
-- [ ] Veranstaltungsort suchen
-- [ ] Hotels suchen
+- [X] Veranstaltungsort suchen
+- [X] Hotels suchen
 - [ ] Hotel buchen
 - [ ] Fahrt planen
 - [ ] anmelden
