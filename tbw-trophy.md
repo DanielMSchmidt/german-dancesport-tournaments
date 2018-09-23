@@ -2,7 +2,7 @@
 
 ## Termin
 
-4. - 5.5.2019
+04.-05.05.2019
 
 ## Veranstaltungsort
 
