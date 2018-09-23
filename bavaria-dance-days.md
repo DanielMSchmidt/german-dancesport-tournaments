@@ -6,16 +6,17 @@ Juli 2019
 
 ## Veranstaltungsort
 
-TBD
+[Luitpoldhalle, Rosenheim](https://goo.gl/maps/ArtZE7fjbgS2)
 
 ## Hotels
 
-TBD
+- [Tryp by Wyndham Rosenheim](http://www.booking.com/Share-mWTI36d) (11m)
+- [B&B Hotel Rosenheim](http://www.booking.com/Share-T65c7Sq) (12m)
 
 ## ToDos
 
-- [ ] Veranstaltungsort suchen
-- [ ] Hotels suchen
+- [X] Veranstaltungsort suchen
+- [X] Hotels suchen
 - [ ] Hotel buchen
 - [ ] Fahrt planen
 - [ ] anmelden
