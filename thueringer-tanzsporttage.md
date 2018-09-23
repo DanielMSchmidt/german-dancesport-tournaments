@@ -2,19 +2,20 @@
 
 ## Termin
 
-05-07.01.2019
+11-13.01.2019
 
 ## Veranstaltungsort
 
-[Bad Blankenburg](https://goo.gl/maps/TwhiVkdmvjT2)
+[Landessportschule Bad Blankenburg](https://goo.gl/maps/c7mGTFhTsSv)
 
 ## Hotels
 
-TBD
+- [Ferienwohnung Haus "Anna"](http://www.booking.com/Share-PsPhH3) (147€-204€, 2-4 Personen, 17 min)
+- [Ferienwohnung Helene](http://www.booking.com/Share-RnquET1) (149€-516€, 2-8 Personen, 11 min)
 
 ## ToDos
 
-- [ ] Hotels suchen
-- [ ] Hotel buchen
+- [X] Hotels suchen
+- [X] Hotel buchen
 - [ ] Fahrt planen
 - [ ] anmelden
