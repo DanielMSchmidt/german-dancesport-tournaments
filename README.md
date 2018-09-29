@@ -12,8 +12,8 @@ Checked means booked, unchecked means we are going but need to finalize.
 - ☑️ [Dancecomp](./dancecomp.md)
 - ☑️ [Bavarian Dance Days](./bavaria-dance-days.md)
 - ☑️ [Bonner Sommerpokal](./bonner-sommerpokal.md)
-- ❓ [Herbstpokal Berlin](./herbstpokal-berlin.md)
-- ❓ [OWL tanzt](./owl-tanzt.md)
+- ☑️ [Herbstpokal Berlin](./herbstpokal-berlin.md)
+- ☑️ [OWL tanzt](./owl-tanzt.md)
 
 ### Ohne Hotels
 - ☑️ Michel Pokal
