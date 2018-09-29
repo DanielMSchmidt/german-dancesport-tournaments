@@ -5,7 +5,7 @@ A list of german dancesport tournaments I would like to attend
 
 Checked means booked, unchecked means we are going but need to finalize.
 
-- ☑️ [Thüringer Tanzsporttage](./thueringer-tanzsporttage.md)
+- ❌ [Thüringer Tanzsporttage](./thueringer-tanzsporttage.md)
 - ✅ [Blaues Band](./blaues-band.md)
 - ☑️ [TBW Trophy](./tbw-trophy.md)
 - ✅ [Hessen tanzt](./hessen-tanzt.md)
