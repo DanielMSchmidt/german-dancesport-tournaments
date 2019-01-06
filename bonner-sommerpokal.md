@@ -2,7 +2,7 @@
 
 ## Termin
 
-18.-19.8.2018
+24.-25.8.2019
 
 ## Veranstaltungsort
 
